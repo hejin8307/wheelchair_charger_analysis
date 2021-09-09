@@ -1,5 +1,12 @@
-# Wheelchair Charger
-Contributor 👩‍💻 : [임혜진](https://github.com/hejin8307)
+<h1 align="center"> Wheelchair Charger </h1>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Openbigdata-2021-red" />
+<img src="https://img.shields.io/badge/python-3.7-blue" />
+<img src="https://img.shields.io/badge/R-4.1-yellow" />
+<img src="https://img.shields.io/badge/QGIS-3.16.8-pink" />
+<img src="https://img.shields.io/badge/DATAINTERN-blue" />
 
 <br/>
 
@@ -14,4 +21,4 @@ Contributor 👩‍💻 : [임혜진](https://github.com/hejin8307)
   - 실제 활용 가능한 급속충전소 수가 각 자치구에서 제공하는 충전소 설치 데이터보다 적은 경우도 존재 (동작구의 경우, 12개 중 2개가 사용 불가)
   - 자치구별 장애인 인구수 대비 설치된 충전소 개수에 불균형 존재  
     <img src="./image/장애인구 대비 충전소 설치 비율.png" width="500" />  
-    → 장애인구 대비 급속충전소 개수 현황을 파악해 본 결과 서울시 전체 자치구에서 평균(0.14%) 이하인 자치구 추출
+    - 장애인구 대비 급속충전소 개수 현황을 파악해 본 결과 서울시 전체 자치구에서 평균(0.14%) 이하인 자치구 추출
